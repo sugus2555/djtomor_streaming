@@ -1,0 +1,205 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="LFCTV FHD" tvg-logo="https://img1.pic.in.th/images/1000923301.png" group-title="PLAY FAMILY SPORTs (ทดลองออกอากาศ)",LFCTV FHD
+http://mooseven.ddns.net:8080/test/testm7/221830
+#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250814101231019501.png" group-title="PLAY FAMILY SPORTs (ทดลองออกอากาศ)",MUTV
+http://mooseven.ddns.net:8080/test/testm7/270467
+#EXTINF:-1 tvg-id="" tvg-name="MADRIDTV" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250814102145019502.png" group-title="PLAY FAMILY SPORTs (ทดลองออกอากาศ)",MADRIDTV
+http://mooseven.ddns.net:8080/test/testm7/270468
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250717161338006023.png" group-title="PLAY FAMILY SPORTs (ทดลองออกอากาศ)",EUROSPORT
+http://mooseven.ddns.net:8080/test/testm7/270469
+#EXTINF:-1 tvg-id="" tvg-name="WSPORT" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250717135007006041.png" group-title="PLAY FAMILY SPORTs (ทดลองออกอากาศ)",WSPORT
+http://mooseven.ddns.net:8080/test/testm7/270470
+#EXTINF:-1 tvg-id="" tvg-name="GOLFPLUS" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20251231235118035025.png" group-title="PLAY FAMILY SPORTs (ทดลองออกอากาศ)",GOLFPLUS
+http://mooseven.ddns.net:8080/test/testm7/270471
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERSPORT" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20260127140505037927.png" group-title="PLAY FAMILY SPORTs (ทดลองออกอากาศ)",PREMIERSPORT
+http://mooseven.ddns.net:8080/test/testm7/270472
+#EXTINF:-1 tvg-id="" tvg-name="EVENT 2" tvg-logo="http://m7smarter.ddns.net/LOGOTV/MONO/1781451464076.png" group-title="Event [No 24/7]",EVENT 2
+http://mooseven.ddns.net:8080/test/testm7/255826
+#EXTINF:-1 tvg-id="" tvg-name="LIVE MATCH 1" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/livematch.png" group-title="Event [No 24/7]",LIVE MATCH 1
+http://mooseven.ddns.net:8080/test/testm7/271161
+#EXTINF:-1 tvg-id="" tvg-name="LIVE MATCH 2" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/livematch.png" group-title="Event [No 24/7]",LIVE MATCH 2
+http://mooseven.ddns.net:8080/test/testm7/271162
+#EXTINF:-1 tvg-id="" tvg-name="LIVE MATCH 3" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/livematch.png" group-title="Event [No 24/7]",LIVE MATCH 3
+http://mooseven.ddns.net:8080/test/testm7/271163
+#EXTINF:-1 tvg-id="" tvg-name="LIVE MATCH 4" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/livematch.png" group-title="Event [No 24/7]",LIVE MATCH 4
+http://mooseven.ddns.net:8080/test/testm7/271164
+#EXTINF:-1 tvg-id="" tvg-name="LIVE MATCH 5" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/livematch.png" group-title="Event [No 24/7]",LIVE MATCH 5
+http://mooseven.ddns.net:8080/test/testm7/271165
+#EXTINF:-1 tvg-id="" tvg-name="LIVE MATCH 6" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/livematch.png" group-title="Event [No 24/7]",LIVE MATCH 6
+http://mooseven.ddns.net:8080/test/testm7/271166
+#EXTINF:-1 tvg-id="" tvg-name="LIVE MATCH 7" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/livematch.png" group-title="Event [No 24/7]",LIVE MATCH 7
+http://mooseven.ddns.net:8080/test/testm7/271167
+#EXTINF:-1 tvg-id="" tvg-name="LIVE MATCH 8" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/livematch.png" group-title="Event [No 24/7]",LIVE MATCH 8
+http://mooseven.ddns.net:8080/test/testm7/271168
+#EXTINF:-1 tvg-id="" tvg-name="LIVE MATCH 9" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/livematch.png" group-title="Event [No 24/7]",LIVE MATCH 9
+http://mooseven.ddns.net:8080/test/testm7/271169
+#EXTINF:-1 tvg-id="" tvg-name="LIVE MATCH 10" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/livematch.png" group-title="Event [No 24/7]",LIVE MATCH 10
+http://mooseven.ddns.net:8080/test/testm7/271170
+#EXTINF:-1 tvg-id="iptv36.thaipbs" tvg-name="Thai PBS" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/tpbs.png" group-title="ดิจิตอลทีวี",Thai PBS
+http://mooseven.ddns.net:8080/test/testm7/3
+#EXTINF:-1 tvg-id="iptv36.tv5" tvg-name="CH 5 HD" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/ch5.png" group-title="ดิจิตอลทีวี",CH 5 HD
+http://mooseven.ddns.net:8080/test/testm7/5
+#EXTINF:-1 tvg-id="iptv36.nbt" tvg-name="NBT HD" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/nbt2.png" group-title="ดิจิตอลทีวี",NBT HD
+http://mooseven.ddns.net:8080/test/testm7/6
+#EXTINF:-1 tvg-id="iptv36.tsports" tvg-name="T SPORTS" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/tsport.png" group-title="ดิจิตอลทีวี",T SPORTS
+http://mooseven.ddns.net:8080/test/testm7/7
+#EXTINF:-1 tvg-id="iptv36.tptv" tvg-name="TPTV" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/tptv.png" group-title="ดิจิตอลทีวี",TPTV
+http://mooseven.ddns.net:8080/test/testm7/8
+#EXTINF:-1 tvg-id="iptv36.tnn16" tvg-name="TNN 16" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/tnn.png" group-title="ดิจิตอลทีวี",TNN 16
+http://mooseven.ddns.net:8080/test/testm7/9
+#EXTINF:-1 tvg-id="iptv36.nation" tvg-name="NATION" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/nation.png" group-title="ดิจิตอลทีวี",NATION
+http://mooseven.ddns.net:8080/test/testm7/11
+#EXTINF:-1 tvg-id="iptv36.workpoint" tvg-name="WORKPOINT" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/wptv.png" group-title="ดิจิตอลทีวี",WORKPOINT
+http://mooseven.ddns.net:8080/test/testm7/12
+#EXTINF:-1 tvg-id="iptv36.true4u" tvg-name="TRUE4U" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/t4u.png" group-title="ดิจิตอลทีวี",TRUE4U
+http://mooseven.ddns.net:8080/test/testm7/13
+#EXTINF:-1 tvg-id="iptv36.gmm25" tvg-name="GMM" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/gmm.png" group-title="ดิจิตอลทีวี",GMM
+http://mooseven.ddns.net:8080/test/testm7/14
+#EXTINF:-1 tvg-id="iptv36.ch8" tvg-name="CH 8" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/ch8.png" group-title="ดิจิตอลทีวี",CH 8
+http://mooseven.ddns.net:8080/test/testm7/15
+#EXTINF:-1 tvg-id="iptv36.mono29" tvg-name="MONOSPORTMAX 29" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/monomaxsport29.png" group-title="ดิจิตอลทีวี",MONOSPORTMAX 29
+http://mooseven.ddns.net:8080/test/testm7/16
+#EXTINF:-1 tvg-id="iptv36.mcot" tvg-name="MCOT" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/mcot.png" group-title="ดิจิตอลทีวี",MCOT
+http://mooseven.ddns.net:8080/test/testm7/17
+#EXTINF:-1 tvg-id="iptv36.one" tvg-name="ONE" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/one.png" group-title="ดิจิตอลทีวี",ONE
+http://mooseven.ddns.net:8080/test/testm7/18
+#EXTINF:-1 tvg-id="iptv36.nbt" tvg-name="THAIRATH" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/thairath.png" group-title="ดิจิตอลทีวี",THAIRATH
+http://mooseven.ddns.net:8080/test/testm7/19
+#EXTINF:-1 tvg-id="iptv36.ch3" tvg-name="CH 3 HD" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/ch3.png" group-title="ดิจิตอลทีวี",CH 3 HD
+http://mooseven.ddns.net:8080/test/testm7/20
+#EXTINF:-1 tvg-id="iptv36.amarin" tvg-name="AMARIN TV" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/amarin.png" group-title="ดิจิตอลทีวี",AMARIN TV
+http://mooseven.ddns.net:8080/test/testm7/21
+#EXTINF:-1 tvg-id="iptv36.amarin" tvg-name="CH 7 HD" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/ch7.png" group-title="ดิจิตอลทีวี",CH 7 HD
+http://mooseven.ddns.net:8080/test/testm7/22
+#EXTINF:-1 tvg-id="iptv36.pptv" tvg-name="PPTV" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/DIGITALTV/pptv.png" group-title="ดิจิตอลทีวี",PPTV
+http://mooseven.ddns.net:8080/test/testm7/23
+#EXTINF:-1 tvg-id="" tvg-name="M7 วาไรตี้" tvg-logo="http://m7smarter.ddns.net/ทีวีพิเศษ/วาไรตี้.png" group-title="ทีวีพิเศษ",M7 วาไรตี้
+http://mooseven.ddns.net:8080/test/testm7/31422
+#EXTINF:-1 tvg-id="" tvg-name="M7 การ์ตูน" tvg-logo="http://m7smarter.ddns.net/ทีวีพิเศษ/การ์ตูน.png" group-title="ทีวีพิเศษ",M7 การ์ตูน
+http://mooseven.ddns.net:8080/test/testm7/31426
+#EXTINF:-1 tvg-id="C1.49.tunarr.com" tvg-name="iPlay MEDIA" tvg-logo="http://m7smarter.ddns.net/ทีวีพิเศษ/iplay.png" group-title="ทีวีพิเศษ",iPlay MEDIA
+http://mooseven.ddns.net:8080/test/testm7/37875
+#EXTINF:-1 tvg-id="" tvg-name="M7 ซีรีย์อินเตอร์" tvg-logo="http://m7smarter.ddns.net/ทีวีพิเศษ/ซีรีย์อินเตอร์.png" group-title="ทีวีพิเศษ",M7 ซีรีย์อินเตอร์
+http://mooseven.ddns.net:8080/test/testm7/101611
+#EXTINF:-1 tvg-id="C4.52.tunarr.com" tvg-name="M7 ละครไทย" tvg-logo="http://m7smarter.ddns.net/ทีวีพิเศษ/ละครไทย.png" group-title="ทีวีพิเศษ",M7 ละครไทย
+http://mooseven.ddns.net:8080/test/testm7/119703
+#EXTINF:-1 tvg-id="C2.50.tunarr.com" tvg-name="M7 หนังอินเตอร์" tvg-logo="http://m7smarter.ddns.net/ทีวีพิเศษ/หนังอินเตอร์.png" group-title="ทีวีพิเศษ",M7 หนังอินเตอร์
+http://mooseven.ddns.net:8080/test/testm7/119704
+#EXTINF:-1 tvg-id="C3.51.tunarr.com" tvg-name="M7 หนังเอเชีย" tvg-logo="http://m7smarter.ddns.net/ทีวีพิเศษ/หนังเอเชีย.png" group-title="ทีวีพิเศษ",M7 หนังเอเชีย
+http://mooseven.ddns.net:8080/test/testm7/119705
+#EXTINF:-1 tvg-id="C5.53.tunarr.com" tvg-name="M7 หนังไทย" tvg-logo="http://m7smarter.ddns.net/ทีวีพิเศษ/หนังไทย.png" group-title="ทีวีพิเศษ",M7 หนังไทย
+http://mooseven.ddns.net:8080/test/testm7/119706
+#EXTINF:-1 tvg-id="C3.51.tunarr.com" tvg-name="M7 ซีรีย์เอเชีย" tvg-logo="http://m7smarter.ddns.net/ทีวีพิเศษ/ซีรีย์เอเชีย.png" group-title="ทีวีพิเศษ",M7 ซีรีย์เอเชีย
+http://mooseven.ddns.net:8080/test/testm7/119707
+#EXTINF:-1 tvg-id="" tvg-name="M7 คอนเสิร์ต" tvg-logo="http://m7smarter.ddns.net/ทีวีพิเศษ/คอนเสิร์ต.png" group-title="ทีวีพิเศษ",M7 คอนเสิร์ต
+http://mooseven.ddns.net:8080/test/testm7/250908
+#EXTINF:-1 tvg-id="" tvg-name="M7 Sports" tvg-logo="http://m7smarter.ddns.net/ทีวีพิเศษ/กีฬา.png" group-title="ทีวีพิเศษ",M7 Sports
+http://mooseven.ddns.net:8080/test/testm7/255825
+#EXTINF:-1 tvg-id="" tvg-name="M7 เพลงเก่า" tvg-logo="http://m7smarter.ddns.net/ทีวีพิเศษ/เพลงเก่า.png" group-title="ทีวีพิเศษ",M7 เพลงเก่า
+http://mooseven.ddns.net:8080/test/testm7/264113
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network TH" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png" group-title="เด็ก",Cartoon Network TH
+http://mooseven.ddns.net:8080/test/testm7/2772
+#EXTINF:-1 tvg-id="ละครไทยMoo7" tvg-name="SuperCartoon" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/supercartoon.png" group-title="เด็ก",SuperCartoon
+http://mooseven.ddns.net:8080/test/testm7/34959
+#EXTINF:-1 tvg-id="" tvg-name="PBS Kids" tvg-logo="https://img5.pic.in.th/file/secure-sv1/PBS_Kids_logo_20228210cae61b006c8e.png" group-title="เด็ก",PBS Kids
+http://mooseven.ddns.net:8080/test/testm7/37511
+#EXTINF:-1 tvg-id="" tvg-name="EBS Kids" tvg-logo="https://img2.pic.in.th/pic/EBS_KIDS.svg.png" group-title="เด็ก",EBS Kids
+http://mooseven.ddns.net:8080/test/testm7/37512
+#EXTINF:-1 tvg-id="Cartoonito.th" tvg-name="CARTOONITO" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png" group-title="เด็ก",CARTOONITO
+http://mooseven.ddns.net:8080/test/testm7/78010
+#EXTINF:-1 tvg-id="Nick Jr..th" tvg-name="Nick Jr" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Nickjr_2024.png" group-title="เด็ก",Nick Jr
+http://mooseven.ddns.net:8080/test/testm7/78019
+#EXTINF:-1 tvg-id="Nickelodeon.th" tvg-name="Nickelodeon " tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png" group-title="เด็ก",Nickelodeon 
+http://mooseven.ddns.net:8080/test/testm7/78020
+#EXTINF:-1 tvg-id="" tvg-name="Baby Shark TV" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="เด็ก",Baby Shark TV
+http://mooseven.ddns.net:8080/test/testm7/140408
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonumi" tvg-logo="http://moo7hd.myddns.me:5103/PMOO7/LOGOTV/PREMIEMTV/cartoonumi.png" group-title="เด็ก",Cartoonumi
+http://mooseven.ddns.net:8080/test/testm7/198784
+#EXTINF:-1 tvg-id="" tvg-name="Mr Bean Animated" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/TH3900003JA_20241113T031441SQUARE.png&h=250" group-title="เด็ก",Mr Bean Animated
+http://mooseven.ddns.net:8080/test/testm7/207435
+#EXTINF:-1 tvg-id="" tvg-name="BOOM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmSH24xbKMXkeiljOB30bpjmDsFBtQJWOexoyqPS8_nhONT__zVSN4x58&s=10" group-title="เด็ก",BOOM
+http://mooseven.ddns.net:8080/test/testm7/264115
+#EXTINF:-1 tvg-id="True Series" tvg-name="TRUE - Series" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="บันเทิงพรีเมียม",TRUE - Series
+http://mooseven.ddns.net:8080/test/testm7/103
+#EXTINF:-1 tvg-id="True Thai Film" tvg-name="TRUE - Thai Film" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cffb79f0-b44d-11ee-80bd-b787d7bab688_webp_original.webp" group-title="บันเทิงพรีเมียม",TRUE - Thai Film
+http://mooseven.ddns.net:8080/test/testm7/104
+#EXTINF:-1 tvg-id="True Movies Hits" tvg-name="TRUE - Movie Hits" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/45345d10-e599-11ed-86b8-bb40638e3c49_webp_original.png" group-title="บันเทิงพรีเมียม",TRUE - Movie Hits
+http://mooseven.ddns.net:8080/test/testm7/105
+#EXTINF:-1 tvg-id="True X-Zyte" tvg-name="TRUE - XZYTE" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46fb6170-e599-11ed-b606-c19576cb8b29_webp_original.png" group-title="บันเทิงพรีเมียม",TRUE - XZYTE
+http://mooseven.ddns.net:8080/test/testm7/30876
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716134712006706.png" group-title="บันเทิงพรีเมียม",HBO
+http://mooseven.ddns.net:8080/test/testm7/154020
+#EXTINF:-1 tvg-id="" tvg-name="HBO HITS" tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716134739006530.png" group-title="บันเทิงพรีเมียม",HBO HITS
+http://mooseven.ddns.net:8080/test/testm7/154021
+#EXTINF:-1 tvg-id="" tvg-name="ROCK X Stream" tvg-logo="https://img2.pic.in.th/1000923285.png" group-title="บันเทิงพรีเมียม",ROCK X Stream
+http://mooseven.ddns.net:8080/test/testm7/207411
+#EXTINF:-1 tvg-id="" tvg-name="มวลชนทีวี" tvg-logo="https://thaitvstream.com/streaming/mounchontv/mounchontv.png" group-title="บันเทิงท้องถิ่น",มวลชนทีวี
+http://mooseven.ddns.net:8080/test/testm7/29828
+#EXTINF:-1 tvg-id="" tvg-name="สยามนิวส์" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png" group-title="บันเทิงท้องถิ่น",สยามนิวส์
+http://mooseven.ddns.net:8080/test/testm7/29829
+#EXTINF:-1 tvg-id="" tvg-name="zabbtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0t-mFJKHV26GoOxtHqi7FN5K44chxSaqwdOLxvQkwSD-UeGP8xZ2dO7Do&s=10" group-title="บันเทิงท้องถิ่น",zabbtv
+http://mooseven.ddns.net:8080/test/testm7/36394
+#EXTINF:-1 tvg-id="" tvg-name="Cable Channel 37HD" tvg-logo="https://img2.pic.in.th/pic/1000436115.png" group-title="บันเทิงท้องถิ่น",Cable Channel 37HD
+http://mooseven.ddns.net:8080/test/testm7/37472
+#EXTINF:-1 tvg-id="" tvg-name="ไทไชโย" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoZQsr7ce6MZR0QlqoXF5ezvL6Xn7MUdLSRw&usqp=CAU" group-title="บันเทิงท้องถิ่น",ไทไชโย
+http://mooseven.ddns.net:8080/test/testm7/37488
+#EXTINF:-1 tvg-id="" tvg-name="TopNews" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/NEWS/news-topnews.png" group-title="ข่าว",TopNews
+http://mooseven.ddns.net:8080/test/testm7/29840
+#EXTINF:-1 tvg-id="" tvg-name="News 1" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/NEWS/news-news1.png" group-title="ข่าว",News 1
+http://mooseven.ddns.net:8080/test/testm7/29841
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/NEWS/news-aji.png" group-title="ข่าว",Aljazeera
+http://mooseven.ddns.net:8080/test/testm7/29842
+#EXTINF:-1 tvg-id="" tvg-name="Channel_News_Asia" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/NEWS/news-cna.png" group-title="ข่าว",Channel_News_Asia
+http://mooseven.ddns.net:8080/test/testm7/29847
+#EXTINF:-1 tvg-id="" tvg-name="Samrujlok" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="สารคดี",Samrujlok
+http://mooseven.ddns.net:8080/test/testm7/258228
+#EXTINF:-1 tvg-id="" tvg-name="Kongdee" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="สารคดี",Kongdee
+http://mooseven.ddns.net:8080/test/testm7/258229
+#EXTINF:-1 tvg-id="" tvg-name="Thainess" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png" group-title="สารคดี",Thainess
+http://mooseven.ddns.net:8080/test/testm7/258230
+#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png" group-title="สารคดี",Discovery
+http://mooseven.ddns.net:8080/test/testm7/258233
+#EXTINF:-1 tvg-id="" tvg-name="Prima Sport 1" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/primasport/Prima_Sport_1_29.webp" group-title="กีฬา 1",Prima Sport 1
+http://mooseven.ddns.net:8080/test/testm7/139860
+#EXTINF:-1 tvg-id="" tvg-name="Prima Sport 2" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/primasport/Prima_Sport_2_29.webp" group-title="กีฬา 1",Prima Sport 2
+http://mooseven.ddns.net:8080/test/testm7/139862
+#EXTINF:-1 tvg-id="" tvg-name="Prima Sport 3" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/primasport/Prima_Sport_3_29.webp" group-title="กีฬา 1",Prima Sport 3
+http://mooseven.ddns.net:8080/test/testm7/139863
+#EXTINF:-1 tvg-id="" tvg-name="Prima Sport 4" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/primasport/Prima_Sport_4_29.webp" group-title="กีฬา 1",Prima Sport 4
+http://mooseven.ddns.net:8080/test/testm7/139864
+#EXTINF:-1 tvg-id="" tvg-name="Prima Sport 5" tvg-logo="http://moo7hd.myddns.me:5100/LOGOTV/primasport/Prima_Sport_5_29.webp" group-title="กีฬา 1",Prima Sport 5
+http://mooseven.ddns.net:8080/test/testm7/139865
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1" tvg-logo="https://img5.pic.in.th/file/secure-sv1/37061.jpg" group-title="กีฬา 1",FOX SPORTS 1
+http://mooseven.ddns.net:8080/test/testm7/232718
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="https://img2.pic.in.th/pic/37062.jpg" group-title="กีฬา 1",FOX SPORTS 2
+http://mooseven.ddns.net:8080/test/testm7/232719
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://img2.pic.in.th/pic/37063.jpg" group-title="กีฬา 1",FOX SPORTS 3
+http://mooseven.ddns.net:8080/test/testm7/232720
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM" tvg-logo="https://img5.pic.in.th/file/secure-sv1/37064.jpg" group-title="กีฬา 1",FOX SPORTS PREMIUM
+http://mooseven.ddns.net:8080/test/testm7/232721
+#EXTINF:-1 tvg-id="" tvg-name="FUBO SPORT 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Fubo_Sports.png" group-title="กีฬา 1",FUBO SPORT 1
+http://mooseven.ddns.net:8080/test/testm7/232711
+#EXTINF:-1 tvg-id="" tvg-name="FUBO SPORT 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Fubo_Sports.png" group-title="กีฬา 1",FUBO SPORT 2
+http://mooseven.ddns.net:8080/test/testm7/232712
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png" group-title="กีฬา 1",Sport TV 1
+http://mooseven.ddns.net:8080/test/testm7/38818
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png" group-title="กีฬา 1",Sport TV 2
+http://mooseven.ddns.net:8080/test/testm7/38819
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fjy5d31700902671.png" group-title="กีฬา 1",Sport TV 3
+http://mooseven.ddns.net:8080/test/testm7/38820
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wzqgsk1700902680.png" group-title="กีฬา 1",Sport TV 4
+http://mooseven.ddns.net:8080/test/testm7/38821
+#EXTINF:-1 tvg-id="" tvg-name="TRUE SPORTs 2" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="กีฬา 2",TRUE SPORTs 2
+http://mooseven.ddns.net:8080/test/testm7/218060
+#EXTINF:-1 tvg-id="" tvg-name="TRUE SPORTs 7" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="กีฬา 2",TRUE SPORTs 7
+http://mooseven.ddns.net:8080/test/testm7/218069
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 1" tvg-logo="https://i.ibb.co/2Y8Rnm1K/Picsart-26-06-11-22-45-43-349.png" group-title="กีฬา 2",SPOTV 1
+http://mooseven.ddns.net:8080/test/testm7/218079
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://img2.pic.in.th/1000592172.png" group-title="กีฬา 2",SPOTV 2
+http://mooseven.ddns.net:8080/test/testm7/218081
+#EXTINF:-1 tvg-id="" tvg-name="BEIn 1" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="กีฬา 2",BEIn 1
+http://mooseven.ddns.net:8080/test/testm7/218084
+#EXTINF:-1 tvg-id="" tvg-name="BEIn 3" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" group-title="กีฬา 2",BEIn 3
+http://mooseven.ddns.net:8080/test/testm7/218090
+#EXTINF:-1 tvg-id="" tvg-name="SPORTMAX 1" tvg-logo="http://m7smarter.ddns.net/LOGOTV/MONO/1781451464076.png" group-title="กีฬา 2",SPORTMAX 1
+http://mooseven.ddns.net:8080/test/testm7/255809
